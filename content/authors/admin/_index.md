@@ -40,18 +40,31 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+  - icon: book
+    icon_pack: fas
+    link: https://elibrary.ru/
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?view_op=new_articles&hl=ru&imq=%D0%A2%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B9+%D0%91%D0%B5%D1%88%D0%BA%D1%83%D1%80%D0%BE%D0%B2#
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/my-orcid?orcid=0000-0002-2118-1360
+  - icon: mendeley
+    icon_pack: ai
+    link: https://www.mendeley.com/
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Timofey-Beshkurov
+  - icon: academia
+    icon_pack: ai
+    link: https://independent.academia.edu/%D0%A2%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B9%D0%91%D0%B5%D1%88%D0%BA%D1%83%D1%80%D0%BE%D0%B2
+  - icon: arxiv
+    icon_pack: ai
+    link: https://arxiv.org/
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/Timofey1
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
