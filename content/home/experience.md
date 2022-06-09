@@ -22,28 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Data Scientist
+  - title: Computer Vision Developer
     company: Ashmanov Neural Networks
-    company_url: ''
+    company_url: 'https://ashmanov.net/en/'
     company_logo: an
-    location: California
+    location: Moscow, Russia
     date_start: '2021-04-13'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * CV
-        * Data Analisis
-        * Deploying
+        Development, training and testing of neural networks for computer vision projects. Creation of synthetic data sets, compilation of documentation and instructions. Data processing. Code assembly work + acceleration. Development of demo stands
 
-  - title: Developer
+  - title: Python Developer
     company: hoROOMy startup
-    company_url: ''
+    company_url: 'https://github.com/hrmy/hoROOMy'
     company_logo:
-    location: Moscow
+    location: Moscow, Russia
     date_start: '2017-09-01'
     date_end: '2018-07-31'
-    description: Python developer
+    description: |2-
+        Python programmer
+
+        At the beginning of the project I was engaged in parsing, then I switched to backend development. Also worked on a module for sending messages to verify an account via phone.
 
 design:
   columns: '2'

@@ -1,4 +1,4 @@
----
+<!-- ---
 # An instance of the Accomplishments widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: accomplishments
@@ -43,4 +43,4 @@ item:
 
 design:
   columns: '2'
----
+--- -->
